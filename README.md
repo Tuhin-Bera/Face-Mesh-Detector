@@ -1,0 +1,1 @@
+This project is a real-time Face Mesh Detector built with Python, OpenCV, and MediaPipe. It captures video from your webcam, detects multiple face landmarks, and draws a mesh over the faces with contours highlighted.
